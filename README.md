@@ -1,5 +1,5 @@
 # Temperature Converter
-a small temperature converter application from Fahrenheit to Celsius
+A small temperature converter application from Fahrenheit to Celsius
 
 DEMO: https://dillon-porter.github.io/temperature/
 
