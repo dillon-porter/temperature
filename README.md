@@ -1,4 +1,4 @@
-# temperature
+# Temperature
 a small temperature converter from Fahrenheit to Celsius
 
 DEMO: https://dillon-porter.github.io/temperature/
